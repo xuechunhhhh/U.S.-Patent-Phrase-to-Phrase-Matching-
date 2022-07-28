@@ -5,3 +5,4 @@ https://www.kaggle.com/datasets/jonathanchan/deberta-v3-large
 https://www.kaggle.com/datasets/xhlulu/electra
 https://www.kaggle.com/datasets/goldenlock/funnel-large
 https://www.kaggle.com/datasets/ksork6s4/bert-for-patents
+https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/data
